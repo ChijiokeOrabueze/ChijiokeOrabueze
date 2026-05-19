@@ -1,4 +1,5 @@
-## Hi there 👋
+## Most of my recent work is in private repositories, while many of the public projects here are older, experimental, or learning-focused.
+
 
 <!--
 **ChijiokeOrabueze/ChijiokeOrabueze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
